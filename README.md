@@ -94,12 +94,6 @@ Epoch 15/15
     Users will be shown 9 random images and the model's classification of each, alongside the training history
   </li>
 </ul>
-<img src="https://github.com/user-attachments/assets/d6cf201d-8649-4dec-9dad-185a3b15124d"
-  width=480
-  height=480>
-<img src="https://github.com/user-attachments/assets/79672fd2-9f98-4c9c-b737-929790cdbdcf"
-  width=480
-  height=480>
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/97957567-6003-4c15-843c-d0cee01dae21"
